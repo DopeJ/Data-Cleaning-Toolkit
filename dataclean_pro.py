@@ -1,7 +1,7 @@
 
 """
 DataClean Pro - Advanced Data Cleaning and Preprocessing Toolkit
-Created by: [Your Name/GitHub Username]
+Created by: Duncan Nyabaro
 GitHub: https://github.com/DopeJ/data-cleaning-toolkit
 
 A comprehensive data cleaning utility that handles common data quality issues
@@ -19,9 +19,9 @@ from sklearn.preprocessing import StandardScaler, LabelEncoder
 import re
 
 class DataCleanPro:
-    """
+    """7
     Advanced Data Cleaning and Preprocessing Toolkit
-    Created by: [Your Name]
+    Created by: Duncan Nyabaro 
     Version: 1.0.0
     
     Features:
