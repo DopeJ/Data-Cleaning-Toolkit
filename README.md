@@ -1,18 +1,18 @@
-# DataClean Pro 🚀
+DataClean Pro 
 
-**Created by: [Your Name]**  
-**GitHub: [@DopeJ](https://github.com/DopeJ)**  
-**Email: [your.email@domain.com]** *← Optional but professional*
+Created by: Duncan Nyabaro  
+GitHub: @DopeJ(https://github.com/DopeJ) 
+Email: duncannyabaro142@gmail.com 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 🎯 About This Project
+About This Project
 
 A professional, production-ready data cleaning and preprocessing toolkit built with **enterprise-grade code quality**. This project demonstrates advanced Python skills, data engineering expertise, and software development best practices.
 
-## ✨ Features
+Features
 
 - **Smart Missing Value Imputation** (mean, median, mode, forward/backward fill)
 - **Advanced Outlier Detection** (IQR, Z-score methods)
@@ -21,7 +21,7 @@ A professional, production-ready data cleaning and preprocessing toolkit built w
 - **Comprehensive Data Quality Reports**
 - **Professional Logging & Error Handling**
 
-## 🚀 Quick Start
+ Quick Start
 
 ```python
 from dataclean_pro import DataCleanPro
