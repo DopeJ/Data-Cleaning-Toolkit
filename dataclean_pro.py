@@ -1,5 +1,4 @@
 
-"""
 DataClean Pro - Advanced Data Cleaning and Preprocessing Toolkit
 Created by: Duncan Nyabaro
 GitHub: https://github.com/DopeJ/data-cleaning-toolkit
